@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhisheksh10
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python and ML
-- 💞️ I’m looking to collaborate on a python project
+- 💞️ I’m looking to collaborate on a ML project
 - 📫 How to reach me- abhisheksharmaah10@gmail.com
 
 <!---
