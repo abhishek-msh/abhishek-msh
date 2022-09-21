@@ -35,7 +35,13 @@ I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksh10&theme=tokyonight&hide_border=false" /></p>
   </div>
-  
+
+---
+<br/>  
+
+![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31csrd2m3dlmei37pzcfbokhaj4m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31csrd2m3dlmei37pzcfbokhaj4m&cover_image=true&theme=default&bar_color_cover=true)  
+
+<br/>  
 ---
 [![](https://visitcount.itsvg.in/api?id=abhisheksh10&icon=5&color=0)](https://visitcount.itsvg.in)
 
