@@ -1,4 +1,6 @@
-<h2 align="center">"No one is perfect. That's why pencils have erasers." -- Wolfgang Riebe</h2>
+<!-- <h2 align="center">"No one is perfect. That's why pencils have erasers." -- Wolfgang Riebe</h2> -->
+<!-- ### ✍️ Random Dev Quote -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h2 align="center">Hii ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/abhisheksh10/" target="_blank"> I'm Abhishek M Sharma</h2>
 
@@ -9,8 +11,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek.msh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksh10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhisheksh_10)  
 
-<!-- ### ✍️ Random Dev Quote -->
-<h3><p align="center"> <![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) /> </p></h3>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhisheksh10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
