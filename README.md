@@ -37,11 +37,10 @@ I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am 
   </div>
 
 ---
-<br/>  
+
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31csrd2m3dlmei37pzcfbokhaj4m&cover_image=true&theme=default&bar_color_cover=true)  
-
-<br/>  
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhisheksh10&icon=5&color=0)](https://visitcount.itsvg.in)
 
