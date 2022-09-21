@@ -24,7 +24,21 @@ I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksh10&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksh10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksh10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=abhisheksh10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /></td>
+  </tr>
+</table>
   
+  
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksh10&theme=tokyonight&hide_border=false" /></p>
+  </div>
+  
+---
 [![](https://visitcount.itsvg.in/api?id=abhisheksh10&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!---
