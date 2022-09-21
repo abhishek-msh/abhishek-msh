@@ -39,7 +39,7 @@ I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am 
 ---
 <br/>  
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31csrd2m3dlmei37pzcfbokhaj4m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31csrd2m3dlmei37pzcfbokhaj4m&cover_image=true&theme=default&bar_color_cover=true)  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31csrd2m3dlmei37pzcfbokhaj4m&cover_image=true&theme=default&bar_color_cover=true)  
 
 <br/>  
 ---
