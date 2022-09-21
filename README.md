@@ -8,9 +8,6 @@
 
 I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am deeply interested in Machine Learning, Deep Learning, NLP, and Reinforcement Learning. Through my academic experiences, I have gained a strong base on theoretical and practical concepts across various areas of Computer Science. As an innovative, creative thinker, I always look forward to collaborating on new projects or working with new technologies to grow my expertise.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [abhishekmsharmawork@gmail.com](mailto:abhishekmsharmawork@gmail.com)
-* 🧠  I'm learning Deep Learning
 
 ## 🌐 Socials:
 <p align="left"> <a href="https://www.github.com/abhisheksh10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abhishek.msh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhisheksh10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abhisheksh_10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
