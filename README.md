@@ -1,4 +1,4 @@
-<h2 align="center">Hii ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/abhisheksh10/" target="_blank"> I'm Abhishek M Sharma</h2>
+<h2 align="center">Hii ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/abhishek-msh/" target="_blank"> I'm Abhishek M Sharma</h2>
 
 <h3 align="center"> 👀An Artificial Intelligence and Data Science Enthusiast </h3>
 
@@ -14,12 +14,12 @@ I'm a Final Year BTech CS student from Poornima University, Jaipur, India. I am 
 ---
 
 <!-- <div align="center"> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksh10&theme=tokyonight&hide_border=false" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-msh&theme=tokyonight&hide_border=false" /></p> -->
 <!--   </div> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhisheksh10&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhishek-msh&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!---
-abhisheksh10/abhisheksh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abhishek-msh/abhishek-msh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
